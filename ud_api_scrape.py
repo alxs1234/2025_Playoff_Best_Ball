@@ -1,9 +1,9 @@
 import json
 import requests
 
-auth_token = "YOUR_AUTH_TOKEN"
+auth_token = "YOUR_AUTH_TOKEN" # Find your UD Auth Token in chrome dev tools - network tab - Request Headers Authorization: and replace inside quotes. should be ~900 characters
 
-draft_id = "DRAFT_ID_FOR_CONTEST"
+draft_id = "DRAFT_ID_FOR_CONTEST" # Find Draft ID in chrome dev tools network tab, look for XHR request like this f3e70ddd-829b-4fab-8566-bc5e42580d15
 
 base_url = f"https://api.underdogfantasy.com/v1/tournaments/drafts/{draft_id}"
 
