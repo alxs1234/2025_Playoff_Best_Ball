@@ -1,5 +1,7 @@
 import json
 import requests
+import re
+
 
 auth_token = "YOUR_AUTH_TOKEN" # Find your UD Auth Token in chrome dev tools - network tab - Request Headers Authorization: and replace inside quotes. should be ~900 characters
 
@@ -14,6 +16,7 @@ headers = {
 }
 
 all_data = []  # Store all fetched data
+title_slug = "underdog_draft"  # Default in case title is missing
 
 # Iterate through pages until we find no more data
 page = 1
@@ -33,11 +36,17 @@ while True:
     
     all_data.append(data)  # Store data
     
+    # Extract title dynamically from first response
+    if page == 1 and "draft" in data and "title" in data["draft"]:
+        title_slug = re.sub(r"\s+", "_", data["draft"]["title"])  # Replace spaces with underscores
+
     page += 1  # Move to the next page
 
 # Save collected data to a JSON file
 if all_data:
-    with open("underdog.json", "w", encoding="utf-8") as json_file:
+    output_filename = f"{title_slug}.json"
+
+    with open(output_filename, "w", encoding="utf-8") as json_file:
         json.dump(all_data, json_file, indent=4)
 
-    print("Underdog data successfully saved to underdog.json")
+    print(f"Underdog data successfully saved to {output_filename}")
