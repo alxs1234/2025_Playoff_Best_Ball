@@ -1,14 +1,3 @@
-# Live Players	Count	%
-0	5	1.67%
-1	27	9.00%
-2	56	18.67%
-3	42	14.00%
-4	34	11.33%
-5	78	26.00%
-6	53	17.67%
-7	5	1.67%
-Total	300	100.00%
-		
 # Live QB	Count	%
 0	147	49.00%
 1	153	51.00%
@@ -44,3 +33,15 @@ Dead Teams	5	1.67%
 14	14	4.67%
 25	25	8.33%
 Total	300	100.00%
+		
+Can Field Full Team	Count	%
+Yes	123	41.00%
+No	177	59.00%
+Total	300	100.00%
+		
+Projection	Proj.	
+Max	87.35	
+Min	0.00	
+Average	57.64	
+Median	61.18	
+Count	300	
