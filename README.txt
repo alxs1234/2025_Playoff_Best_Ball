@@ -23,10 +23,10 @@ Next you will need to change a few lines of code so it will work on your machine
 
 ---
 # --- CONFIGURATION ---
-USERNAME = "my username"  # Replace with your actual username/email
-PASSWORD = "my password"  # Replace with your actual password
+USERNAME = "my username"  # Replace with your UD username/email
+PASSWORD = "my password"  # Replace with your UD password
 CHROME_DRIVER_PATH = r'C:\WebDriver\chromedriver.exe' # Replace with your driver path
-output_dir = r"C:\Users\{username}\Desktop\NFL\scrape" # Replace with your username
+output_dir = r"C:\Users\{username}\Desktop\NFL\scrape" # Replace with your windows username
 
 ---
 
