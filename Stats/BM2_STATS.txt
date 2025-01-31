@@ -31,3 +31,15 @@ Dead Teams	2	1.61%
 2	2	1.61%
 7	7	5.65%
 Total	23	12.90%
+		
+Can Field Full Team	Count	%
+Yes	1	4.35%
+No	22	95.65%
+Total	23	100.00%
+		
+Projection	Proj.	
+Max	73.75	
+Min	0.00	
+Average	33.11	
+Median	29.20	
+Count	23	
