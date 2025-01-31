@@ -280,4 +280,4 @@ python3 ud_webscraping.py 2
 
 Wait for the script to finish running and then you will have a csv with the contest name in the NFL\scrape\ folder set in the configuration path 
 
-Please note the script will double your team to you will likely have to delete rows 2-11 when you process it as it is just reading every team visible right now
+Please note the script will double your team so you will likely have to delete rows 2-11 when you process it as it is just reading every team visible right now
