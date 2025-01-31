@@ -32,23 +32,35 @@ output_dir = r"C:\Users\{username}\Desktop\NFL\scrape" # Replace with your windo
 
 
 next install pip in the terminal
+```
 python -m pip install --upgrade pip
+```
 
 then run this to install the required dependencies
+```
 pip install selenium
+```
 if pip isn't found try and run
+```
 pip3 install selenium
-
+```
 
 now you should be able to start the script
 
 in the terminal type
-
+```
 cd C:\Users\{username}\{path_to_py_folder}\
+```
 
+```
 python ud_webscraping.py
+```
+
 or
+
+```
 python3 ud_webscraping.py
+```
 
 If you have multiple lobbies rerun the script with the number of the lobby after i.e. 1 or nothing for first lobby, 2 for second, etc 
 
