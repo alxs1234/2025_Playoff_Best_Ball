@@ -1,0 +1,64 @@
+Team	Position	Player Name	Count	%
+PHI	RB	Saquon Barkley	456	99.35%
+PHI	W/T	A.J. Brown	302	65.80%
+PHI	QB	Jalen Hurts	289	62.96%
+KC	W/T	Xavier Worthy	274	59.69%
+PHI	W/T	Dallas Goedert	261	56.86%
+WAS	W/T	Terry McLaurin	247	53.81%
+KC	W/T	Travis Kelce	209	45.53%
+WAS	QB	Jayden Daniels	199	43.36%
+PHI	W/T	DeVonta Smith	179	39.00%
+KC	RB	Kareem Hunt	166	36.17%
+KC	QB	Patrick Mahomes	142	30.94%
+KC	W/T	Hollywood Brown	141	30.72%
+BUF	RB	James Cook	140	30.50%
+KC	RB	Isiah Pacheco	130	28.32%
+KC	W/T	DeAndre Hopkins	114	24.84%
+HOU	W/T	Nico Collins	101	22.00%
+BUF	W/T	Khalil Shakir	98	21.35%
+HOU	RB	Joe Mixon	86	18.74%
+WAS	W/T	Zach Ertz	68	14.81%
+BUF	W/T	Dalton Kincaid	67	14.60%
+BUF	W/T	Amari Cooper	58	12.64%
+BUF	W/T	Keon Coleman	51	11.11%
+BAL	W/T	Isaiah Likely	51	11.11%
+BAL	W/T	Rashod Bateman	48	10.46%
+LAR	W/T	Puka Nacua	47	10.24%
+WAS	RB	Brian Robinson Jr.	39	8.50%
+BAL	W/T	Mark Andrews	39	8.50%
+PHI	W/T	Jahan Dotson	36	7.84%
+PHI	RB	Kenneth Gainwell	35	7.63%
+KC	W/T	Noah Gray	35	7.63%
+BAL	W/T	Zay Flowers	35	7.63%
+BUF	QB	Josh Allen	28	6.10%
+BUF	RB	Ty Johnson	28	6.10%
+LAR	RB	Kyren Williams	27	5.88%
+BAL	RB	Justice Hill	27	5.88%
+LAR	W/T	Cooper Kupp	26	5.66%
+WAS	RB	Austin Ekeler	26	5.66%
+HOU	QB	C.J. Stroud	25	5.45%
+BAL	RB	Derrick Henry	24	5.23%
+DET	W/T	Sam LaPorta	23	5.01%
+DET	W/T	Amon-Ra St. Brown	19	4.14%
+DET	QB	Jared Goff	17	3.70%
+LAR	QB	Matthew Stafford	15	3.27%
+BUF	W/T	Curtis Samuel	15	3.27%
+DET	W/T	Tim Patrick	15	3.27%
+WAS	W/T	Dyami Brown	14	3.05%
+DET	RB	David Montgomery	14	3.05%
+KC	W/T	Justin Watson	13	2.83%
+DET	RB	Jahmyr Gibbs	12	2.61%
+KC	W/T	JuJu Smith-Schuster	12	2.61%
+HOU	W/T	Dalton Schultz	11	2.40%
+KC	RB	Samaje Perine	10	2.18%
+DET	W/T	Jameson Williams	9	1.96%
+BAL	QB	Lamar Jackson	8	1.74%
+WAS	W/T	Olamide Zaccheaus	7	1.53%
+BUF	W/T	Mack Hollins	5	1.09%
+PHI	W/T	Grant Calcaterra	4	0.87%
+DET	W/T	Kalif Raymond	4	0.87%
+BAL	W/T	Nelson Agholor	3	0.65%
+BUF	W/T	Dawson Knox	3	0.65%
+KC	W/T	Mecole Hardman Jr.	2	0.44%
+HOU	W/T	John Metchie III	1	0.22%
+Total Players			4590	
