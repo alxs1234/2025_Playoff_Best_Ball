@@ -50,3 +50,15 @@ Total	459	100.00%
 12	24	5.23%
 13	26	5.66%
 Total	459	100.00%
+		
+Can Field Full Team	Count	%
+Yes	309	67.32%
+No	150	32.68%
+Total	459	100.00%
+		
+Projection	Proj.	
+Max	87.35	
+Min	21.60	
+Average	73.75	
+Median	80.60	
+Count	459	
