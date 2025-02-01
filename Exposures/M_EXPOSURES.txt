@@ -83,7 +83,7 @@ BUF	W/T	Mack Hollins	3	0.80%
 WAS	W/T	Dyami Brown	2	0.53%
 TB	W/T	Jalen McMillan	2	0.53%
 PIT	W/T	Calvin Austin III	2	0.53%
-None	W/T	Diontae Johnson	2	0.53%
+NONE	W/T	Diontae Johnson	2	0.53%
 SF	W/T	George Kittle	2	0.53%
 LAC	W/T	Quentin Johnston	2	0.53%
 BUF	RB	Ray Davis	2	0.53%
