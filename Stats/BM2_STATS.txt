@@ -30,7 +30,7 @@ Dead Teams	2	8.70%
 1	12	52.17%
 2	2	8.70%
 7	7	30.43%
-Total	23	69.57%
+Total	23	100.00%
 		
 Can Field Full Team	Count	%
 Yes	1	4.35%
