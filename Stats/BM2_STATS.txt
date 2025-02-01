@@ -25,7 +25,7 @@ Total	23	18.55%
 3	1	0.81%
 Total	23	18.55%
 		
-# dupes	Count	%
+Count of Unique Set of Live Players	Count	%
 Dead Teams	2	1.61%
 1	12	9.68%
 2	2	1.61%
@@ -43,3 +43,31 @@ Min	0.00
 Average	33.11	
 Median	29.20	
 Count	23	
+		
+Projected Place 	Count	%
+1	1	4.35%
+2	1	4.35%
+3	1	4.35%
+4	1	4.35%
+5	1	4.35%
+6	1	4.35%
+7	1	4.35%
+8	1	4.35%
+9	1	4.35%
+10	2	8.70%
+12	1	4.35%
+13	7	30.43%
+20	1	4.35%
+21	1	4.35%
+22	2	8.70%
+Total	23	100.00%
+		
+# Teams That Cover This Team	Count	%
+0	8	34.78%
+1	2	8.70%
+2	2	8.70%
+3	1	4.35%
+5	1	4.35%
+13	7	30.43%
+22	2	8.70%
+Total	23	100.00%
